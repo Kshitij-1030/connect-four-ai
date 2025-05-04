@@ -17,13 +17,13 @@ An AI-powered Connect Four project that combines a **Minimax agent with alpha-be
 ##  Project Structure
 
 ```
-├── connect_four_gui.py              # GUI using Tkinter
-├── game.py                          # Game board logic
-├── rule_based.py                    # Minimax agent logic
-├── random_vs_ai.py                  # Game simulator
-├── random_vs_ai.csv                 # Output of 1000 simulated games
+├── connect_four_gui.py                        # GUI using Tkinter
+├── game.py                                    # Game board logic
+├── rule_based.py                              # Minimax agent logic
+├── random_vs_ai.py                            # Game simulator
+├── random_vs_ai.csv                           # Output of 1000 simulated games
 ├── connect_four_analysis_and_modelling.ipynb  # Analysis & ML notebook
-└── README.md                        # You are here
+└── README.md                                  # You are here
 ```
 
 ---
